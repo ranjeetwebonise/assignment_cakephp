@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+
+}
+.mainContainer {
+    position: relative;
+    min-height: 100%;
+    margin-bottom: -100px;
+}
+.loginForm {
+    width: 400px;
+    margin: 0 auto;
+}
+input[type='text'].inputField, input[type='password'].inputField {
+    width: 200px;
+    height: 25px;
+    line-height: 25px;
+    padding: 5px;
+}
+#footer {
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+    height: 80px;
+}
