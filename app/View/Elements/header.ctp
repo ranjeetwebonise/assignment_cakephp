@@ -11,7 +11,6 @@
                 <ul class="nav" id="main-menu-left">
 
                     <li>
-<!--                        <a id="swatch-link" href="../#gallery">Gallery</a>-->
                         <?php echo $this->Html->link('About Us', '/pages/about_us')?>
                     </li>
 
